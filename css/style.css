@@ -360,6 +360,7 @@ h6 {
 
 .mobile-header {
   background-color: #0f0f0f;
+  display: none;
 }
 
 .mobile-header__panel {
@@ -1328,6 +1329,10 @@ p {
 
   .header_footer {
     display: none;
+  }
+
+  .mobile-header {
+    display: block;
   }
 }
 
